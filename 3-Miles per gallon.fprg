@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="nabey"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-10-07 08:41:53 AM"/>
+        <attribute name="created" value="bmFiZXk7TEFQVE9QLUY3RUIzOTlKOzIwMjEtMTAtMDc7MDg6MTk6MzEgQU07Mjc5OQ=="/>
+        <attribute name="edited" value="bmFiZXk7TEFQVE9QLUY3RUIzOTlKOzIwMjEtMTAtMDc7MDg6NDE6NTMgQU07MjsyOTA3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Gallons" type="Integer" array="False" size=""/>
+            <declare name="distance" type="Integer" array="False" size=""/>
+            <output expression="&quot;Enter the amount of gallons in your car: &quot;" newline="True"/>
+            <input variable="Gallons"/>
+            <assign variable="distance" expression="Gallons*20"/>
+            <output expression="&quot;Your car will go &quot;&amp;distance&amp;&quot; miles before you run out of gas.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
