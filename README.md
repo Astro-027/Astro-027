@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Astro-027
-- 👀 I’m interested in Computer Hardware and Programming
-- 🌱 I’m currently learning Python and HTML
+- 👋 Hi, I’m Nabeyou Tadessa
+- 👀 I’m interested in Computer Software and Programming
+- 🌱 I’m currently learning Python and Pygame
 - 📫 You can reach me at
 Linkedin: www.linkedin.com/in/nabeyoutadessa or email me at nabeyoutadessa@gmail.com
 
